@@ -7,7 +7,7 @@ public class LexanCSV {
 /*
  * class LexanCSV
  * 
- * 2011-12-04 11:04 Jim Peterson jimpeterson0462@outlook.com 3fa0
+ * 2011-12-04 11:04 Jim Peterson jimpeterson0462@outlook.com
  * 
  * 		This is a simple lexical analyzer for common flat files ( csv files ).
 
