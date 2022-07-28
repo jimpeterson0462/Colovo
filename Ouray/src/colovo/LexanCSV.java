@@ -11,7 +11,7 @@ public class LexanCSV {
  * 
  * 		This is a simple lexical analyzer for common flat files ( csv files ).
 
- * 		*** TESTING and Proper completion ***
+ * 		*** TESTING and Proper completion *** 2ar6
  *
  * 		NOTE: I have high confidence that this is working well.
  * 			I have tested combinations of Quote Chars, Comma and Tab Separators, ignore White Space, ignore line ends, The four types of line ends,
